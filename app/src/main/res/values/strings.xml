@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lutepel Ind e Com de Papel</string>
+    <string name="action_settings">Preferências</string>
+    <string name="developer_name">Alison Lemes</string>
+    <string name="info_user_pass">Informe Usuário e Senha:</string>
+    <string name="info_filial">Selecione a Filial:</string>
+    <string name="user">Usuário</string>
+    <string name="pass">Senha</string>
+    <string name="sign">Entrar</string>
+    <string name="error_invalid_user">Usuário em Branco</string>
+    <string name="error_invalid_pass">Senha em Branco</string>
+    <string name="error_rest">Usuário e Senha Inválidos</string>
+    <string name="user_mail">alison.leite@lutepel.com.br</string>
+    <string name="user_name">Alison Kaique Lemes Leite</string>
+    <string name="title_activity_painel_gerencial">Painel Gerencial</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
